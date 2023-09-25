@@ -4,6 +4,7 @@
 The objective of this project is to analyze the Adidas sales database for the year 2020 and 2021 and identify key insights to help improve sales performance and optimize business strategies. By analyzing the sales data, we aim to understand factors influencing sales, identify trends, and uncover opportunities for growth. The analysis will be conducted using Excel to provide an interactive and insightful dashboard.
 
 ## Dataset Explanation
+
 The Adidas sales database contains the following columns:
 
 •	Retailer: Represents the business or individual that sells Adidas products directly to consumers.
